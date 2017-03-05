@@ -1,6 +1,6 @@
 # Light_Notepad-1.3.1
 
-Version 1.3.1 (Final) of the project "Light_Notepad" is now available.
+Version 1.3.1 (final) of the project "Light_Notepad" is now available.
 
 Feel free to report any bug or development ideas. This software is free to use.
 
