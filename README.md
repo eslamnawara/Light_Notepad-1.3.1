@@ -1,6 +1,6 @@
 # Light Notepad version 1.3.1
 
-# Informations :
+# Details
 
 With Light_Notepad-1.3.1 tool you will be able to write, save and open easily all your rich texts.
 
@@ -15,7 +15,3 @@ Feel free to report any bug or development ideas.
 - https://github.com/eslamnawara
 
 - Email Pro (job) = eslam.nawara_pro@yahoo.com
-
-
-
-* test
