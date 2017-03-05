@@ -1,6 +1,6 @@
 # Light Notepad - Version 1.3.1
 
-Write and Save Rich Text.
+- Write and Save Rich Text.
 
 # Details
 
