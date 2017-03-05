@@ -2,7 +2,7 @@
 
 Version 1.3.1 (final) of the project "Light_Notepad" is now available.
 
-Feel free to report any bug or development ideas. This software is free to use.
+Feel free to report any bug or development ideas. This software is free to use and will stay.
 
 - http://plume.dexode.free.fr/tools/light_notepad/light_notepad.html
 
