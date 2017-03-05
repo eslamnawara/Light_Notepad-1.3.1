@@ -1,6 +1,8 @@
 # Light Notepad - Version 1.3.1
 
-# DETAILS
+Write and Save Rich Text.
+
+# Details
 
 With Light_Notepad-1.3.1 tool you will be able to write, save and open easily all your rich texts.
 
