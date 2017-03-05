@@ -10,9 +10,9 @@ You can check the Screenshot.jpg or take a look at http://imgur.com/a/FcV0g to s
 
 Feel free to report any bug or development ideas.
 
-# Contact
+- Site : http://plume.dexode.free.fr/tools/light_notepad/light_notepad.html
 
-- http://plume.dexode.free.fr/tools/light_notepad/light_notepad.html
+# Contact
 
 - https://github.com/eslamnawara
 
