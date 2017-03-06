@@ -8,7 +8,7 @@
 
 Feel free to report any bug or development ideas.
 
-Change List = [Link](CHANGE.txt)
+Version Change = [Github Link](CHANGE.txt)
 
 Website = http://plume.dexode.free.fr/tools/light_notepad/light_notepad.html
 
@@ -20,6 +20,6 @@ Website = http://plume.dexode.free.fr/tools/light_notepad/light_notepad.html
 
 ## Contact
 
-- https://github.com/eslamnawara
+- Github Profile = https://github.com/eslamnawara
 
 - Email Pro (job) = eslam.nawara_pro@yahoo.com
