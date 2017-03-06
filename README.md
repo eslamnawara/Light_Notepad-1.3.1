@@ -6,7 +6,7 @@
 
 - *With Light Notepad 1.3.1 (Final) tool you will be able to write, save and open easily all your rich texts.*
 
-Feel free to report any bug or development ideas.
+Feel free to report any bug or development ideas. 
 
 Version Change = [Link](CHANGE.txt)
 
@@ -22,4 +22,4 @@ Website = http://plume.dexode.free.fr/tools/light_notepad/light_notepad.html
 
 - Github Profile = https://github.com/eslamnawara
 
-- Email Pro (job) = eslam.nawara_pro@yahoo.com
+- Email Pro (job) :email: = eslam.nawara_pro@yahoo.com :email:
