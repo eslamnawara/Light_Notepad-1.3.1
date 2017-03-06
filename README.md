@@ -22,6 +22,6 @@ Author = Mr Eslam Nawara - :fr:
 
 ## Contact
 
-- Github Profile = https://github.com/eslamnawara
+- Github Profile - :man: = https://github.com/eslamnawara
 
 - Email Pro (job) - :email: = eslam.nawara_pro@yahoo.com
