@@ -12,7 +12,7 @@ Website = http://plume.dexode.free.fr/tools/light_notepad/light_notepad.html
 
 # Screenshot
 
-- Here is below a Screenshot if you want to take a look of the design.
+- Here is a Screenshot of the application if you want to take a look of the design.
 
 ![alt tag](https://github.com/eslamnawara/Light_Notepad-1.3.1/blob/master/Screenshot.jpg) 
 
