@@ -1,4 +1,4 @@
-# :star2: Light Notepad - Version 1.3.1 (Final) :star2:
+# :star2:  Light Notepad - Version 1.3.1 (Final)  :star2:
 
 - *Write and Save Rich Text. This application is free and will stay free.*
 
