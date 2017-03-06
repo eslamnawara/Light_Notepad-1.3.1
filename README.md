@@ -1,6 +1,6 @@
 # Light Notepad - Version 1.3.1 (Final)
 
-- Write and Save Rich Text.
+- :star2: Write and Save Rich Text. :star2:
 
 ## Details
 
@@ -8,7 +8,7 @@
 
 Feel free to report any bug or development ideas.
 
-Version Change = [Github Link](CHANGE.txt)
+Version Change = [Link](CHANGE.txt)
 
 Website = http://plume.dexode.free.fr/tools/light_notepad/light_notepad.html
 
