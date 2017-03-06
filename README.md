@@ -1,12 +1,14 @@
 # Light Notepad - Version 1.3.1 (Final)
 
-> Write and Save Rich Text.
+- Write and Save Rich Text.
 
 ## Details
 
-- With *Light Notepad 1.3.1 (Final)* tool you will be able to write, save and open easily all your rich texts.
+- *With Light Notepad 1.3.1 (Final) tool you will be able to write, save and open easily all your rich texts.*
 
 Feel free to report any bug or development ideas.
+
+- Change = [Page](PROPERTY.txt)
 
 Website = http://plume.dexode.free.fr/tools/light_notepad/light_notepad.html
 
