@@ -8,7 +8,7 @@
 
 Feel free to report any bug or development ideas.
 
-- Change = [Page](PROPERTY.txt)
+Change List = [Link](CHANGE.txt)
 
 Website = http://plume.dexode.free.fr/tools/light_notepad/light_notepad.html
 
