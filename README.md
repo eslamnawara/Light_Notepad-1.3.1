@@ -10,7 +10,7 @@ Feel free to report any bug or development ideas.
 
 Version Change = [Link](CHANGE.md)
 
-Author = Mr Eslam Nawara - :fr:
+Author = Mr Eslam Magdy Mahmoud
 
 ## Screenshot
 
@@ -20,7 +20,7 @@ Author = Mr Eslam Nawara - :fr:
 
 ## Contact
 
-- Email Pro (job) - :email: = eslam.nawara_pro@yahoo.com
+- Email Pro (job) - :email: = eslam_magdy.mahmoud@yahoo.com
 
 - Github Profile - :man: = https://github.com/eslamnawara
 
